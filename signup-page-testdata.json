@@ -1,0 +1,11 @@
+{
+    "name":"Torin",
+    "email":"torin@mail.com",
+    "password":"admin123",
+    "interest":["Python", "JavaScript", "AWS", "PlayWright"],
+    "gender":"Male",
+    "address":{
+        "area": "NI",
+        "city": "Belfast"
+    }
+}
